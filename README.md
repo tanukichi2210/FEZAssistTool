@@ -11,7 +11,7 @@ Fantasy Earth Zero 用の補助ツールです。
 
 最新版は **Releases** からダウンロードしてください。
 
-https://github.com/＜ユーザー名＞/FEZAssistTool/releases/latest
+https://github.com/tanukichi2210/FEZAssistTool/releases/latest
 
 ---
 
