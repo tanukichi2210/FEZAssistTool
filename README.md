@@ -1,6 +1,6 @@
 # FEZAssistTool
 
-Fantasy Earth Zero 用の補助ツールです。
+幻想大陸 用の補助ツールです。
 
 > 個人用途を目的として開発したツールです。動作保証はありません。  
 > 二次配布は禁止です。
@@ -34,19 +34,8 @@ https://github.com/tanukichi2210/FEZAssistTool/releases/latest
 1. ZIPをダウンロード
 2. 任意の場所へ解凍
 3. Handleフォルダ内の handle64.exe または handle64a.exe を一度だけ実行し、規約に同意してください。
-4. config.txt を環境に合わせて設定してください。
+4. 設定→ツール設定から、環境に合わせて各種設定してください。
 5. FEZAssistTool.exe を管理者権限で起動してください。
-
----
-
-# 必須設定
-
-config.txt の以下は必ず設定してください。
-
-- LauncherPath
-- FEzero_ClientPath
-
-その他は必要に応じて変更できます。
 
 ---
 
@@ -84,12 +73,12 @@ config.txt の以下は必ず設定してください。
 
 X（旧Twitter）
 
-**@tanukichi2210**
+**@tanukichi_tools**
 
 ---
 
 # ライセンス
 
-Copyright (C) 2025-2026 tanukichi
+Created by tanukichi
 
 二次配布禁止
